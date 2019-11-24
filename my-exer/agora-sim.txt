@@ -1,0 +1,7 @@
+Agora acertei tudo. Estou no Branch correto, pra eu não cagar mais o Branch Master, pode deletar o Betume?
+
+Chave SSH configurada, e o git funcionando bonitinho no terminal.
+
+Estou usando o Windows Subsystem for Linux e o Visual Studio Code. Nele eu crio uma espécie de terminal "remoto" na distribuição que escolhi, no caso, Ubuntu.
+
+É isso. Agora tentarei fazer os exercícios. As bibliotecas de ruby baixei pelo terminal também.
