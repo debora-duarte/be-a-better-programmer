@@ -1,0 +1,3 @@
+BETUME! PORRA!
+só pra constar, instalei novamente o eOS. Conferindo se meu .gitignore está ok.
+
